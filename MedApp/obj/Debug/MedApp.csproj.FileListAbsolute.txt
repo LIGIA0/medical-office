@@ -1,0 +1,14 @@
+C:\Users\Asus ZenBook\source\repos\MedApp\obj\Debug\MedApp.csprojAssemblyReference.cache
+C:\Users\Asus ZenBook\source\repos\MedApp\obj\Debug\MedApp.Form1.resources
+C:\Users\Asus ZenBook\source\repos\MedApp\obj\Debug\MedApp.Form2.resources
+C:\Users\Asus ZenBook\source\repos\MedApp\obj\Debug\MedApp.Form3.resources
+C:\Users\Asus ZenBook\source\repos\MedApp\obj\Debug\MedApp.Properties.Resources.resources
+C:\Users\Asus ZenBook\source\repos\MedApp\obj\Debug\MedApp.csproj.GenerateResource.cache
+C:\Users\Asus ZenBook\source\repos\MedApp\obj\Debug\MedApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus ZenBook\source\repos\MedApp\bin\Debug\MedApp.exe.config
+C:\Users\Asus ZenBook\source\repos\MedApp\bin\Debug\MedApp.exe
+C:\Users\Asus ZenBook\source\repos\MedApp\bin\Debug\MedApp.pdb
+C:\Users\Asus ZenBook\source\repos\MedApp\obj\Debug\MedApp.exe
+C:\Users\Asus ZenBook\source\repos\MedApp\obj\Debug\MedApp.pdb
+C:\Users\Asus ZenBook\source\repos\MedApp\obj\Debug\MedApp.Form4.resources
+C:\Users\Asus ZenBook\source\repos\MedApp\obj\Debug\MedApp.Form5.resources
